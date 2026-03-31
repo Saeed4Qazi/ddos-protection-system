@@ -1,0 +1,1 @@
+{"accuracy": 92.58, "total_samples": 53549, "attack_types": 12, "features": 82, "classes": ["BENIGN", "DrDoS_DNS", "DrDoS_LDAP", "DrDoS_MSSQL", "DrDoS_NTP", "DrDoS_NetBIOS", "DrDoS_SNMP", "DrDoS_SSDP", "DrDoS_UDP", "Syn", "TFTP", "UDP-lag"], "folders_used": ["01-12"]}
