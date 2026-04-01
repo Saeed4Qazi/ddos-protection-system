@@ -1,7 +1,6 @@
 # Distributed Denial of Service (DDoS) Protection System for Cloud
 
-**B.Tech Final Year Project | Computer Science & Engineering**
-**Problem Statement: SIH1649 | Smart India Hackathon 2025**
+B.Tech Final Year Project | Computer Science & Engineering | Problem Statement: SIH1649 
 
 ---
 
@@ -139,12 +138,5 @@ http://localhost:8501
 
 ---
 
-## Developer
-
-**Name:** Saeed Qazi
-**Degree:** B.Tech — Computer Science & Engineering
-**Project:** DDoS Protection System for Cloud (SIH1649)
-
----
 
 *Dataset credit: Canadian Institute for Cybersecurity (CIC), University of New Brunswick*
