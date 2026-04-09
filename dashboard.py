@@ -342,7 +342,7 @@ with tab1:
 | Bwd IAT Mean | Time between packets |
 """)
         st.markdown("")
-        st.info("💡 **Demo Tip:** Set all sliders to **maximum** → Click Classify → Watch attack get detected! 🚨")
+        
 
 # ════════════════════════════════════
 # TAB 2 — Data Analysis
