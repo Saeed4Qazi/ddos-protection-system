@@ -8,6 +8,8 @@ B.Tech Final Year Project | Computer Science & Engineering | Problem Statement: 
 
 This project implements a real-time **DDoS attack detection and classification system** for cloud infrastructure using Machine Learning. The system analyses network traffic flow features and classifies them into 11 distinct DDoS attack types using a Random Forest classifier trained on the CIC-DDoS2019 benchmark dataset.
 
+> **About this repository:** this repo holds the laptop version of the project. Both models below were trained on subsampled data (5,000 rows per CSV file) because of storage limits on the laptop. The project was presented on GPU hardware, where the full version ran — see [Presented version (GPU)](#presented-version-gpu).
+
 ---
 
 ## Features
@@ -83,6 +85,10 @@ project/
 |---|---|---|---|
 | Model A | 01-12 only | 53,549 | **92.59%** |
 | Model B | 01-12 + 03-11 | 87,536 | **83.96%** |
+
+## Presented version (GPU)
+
+The final presentation ran on GPU hardware with the full data and a custom PyTorch DNN, covering 18 attack types at about 92.9% accuracy. The DNN code and the full results are documented in the 60+ page project report and are not part of this repository.
 
 ---
 
